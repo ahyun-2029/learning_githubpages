@@ -6,3 +6,5 @@ format:
 ---
 
 # Final?
+## Ideas for the Final
+### - I honestly have no idea what type of problem I should present for the final 
